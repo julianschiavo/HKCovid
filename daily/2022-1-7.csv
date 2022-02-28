@@ -1,0 +1,34 @@
+Case #,Report Date,Classification,Status,Gender,Age,Symptom Onset Date,Vaccination Status,Residence,Travel History,HK Resident
+12838,7/1/2022,Import-Related,Asymptomatic,F,37,,Pending,Pending,Unknown,Pending
+12839,7/1/2022,Import-Related,Confirmed,M,63,3/1/2022,Pending,Pending,Unknown,Pending
+12840,7/1/2022,Import-Related,Confirmed,F,67,6/1/2022,Pending,Pending,Unknown,Pending
+12841,7/1/2022,Import-Related,Confirmed,F,62,1/1/2022,Pending,Pending,Unknown,Pending
+12842,7/1/2022,Imported,Confirmed,F,54,3/1/2022,Pending,Pending,Unknown,Pending
+12843,7/1/2022,Imported,Confirmed,M,29,9/12/2021,Pending,Pending,Unknown,Pending
+12844,7/1/2022,Imported,Asymptomatic,M,22,,Pending,Pending,Unknown,Pending
+12845,7/1/2022,Imported,Confirmed,F,27,5/1/2022,Pending,Pending,Unknown,Pending
+12846,7/1/2022,Imported,Confirmed,F,26,7/1/2022,Pending,Pending,Unknown,Pending
+12847,7/1/2022,Imported,Confirmed,F,36,5/1/2022,Pending,Pending,Unknown,Pending
+12848,7/1/2022,Imported,Confirmed,M,44,5/1/2022,Pending,Pending,Unknown,Pending
+12849,7/1/2022,Imported,Asymptomatic,M,59,,Pending,Pending,Unknown,Pending
+12850,7/1/2022,Imported,Confirmed,F,21,4/1/2022,Pending,Pending,Unknown,Pending
+12851,7/1/2022,Imported,Confirmed,F,39,5/1/2022,Pending,Pending,Unknown,Pending
+12852,7/1/2022,Imported,Confirmed,F,52,5/1/2022,Pending,Pending,Unknown,Pending
+12853,7/1/2022,Imported,Confirmed,F,40,5/1/2022,Pending,Pending,Unknown,Pending
+12854,7/1/2022,Import-Related,Confirmed,F,51,5/1/2022,Pending,Pending,Unknown,Pending
+12855,7/1/2022,Imported,Confirmed,M,42,6/1/2022,Pending,Pending,Unknown,Pending
+12856,7/1/2022,Imported,Confirmed,F,49,5/1/2022,Pending,Pending,Unknown,Pending
+12857,7/1/2022,Imported,Confirmed,F,21,25/12/2021,Pending,Pending,Unknown,Pending
+12858,7/1/2022,Imported,Confirmed,M,5,6/1/2022,Pending,Pending,Unknown,Pending
+12859,7/1/2022,Imported,Confirmed,F,45,5/1/2022,Pending,Pending,Unknown,Pending
+12860,7/1/2022,Import-Related,Confirmed,F,73,6/1/2022,Pending,Pending,Unknown,Pending
+12861,7/1/2022,Imported,Asymptomatic,F,4 months,,Pending,Pending,Unknown,Pending
+12862,7/1/2022,Imported,Confirmed,M,54,5/1/2022,Pending,Pending,Unknown,Pending
+12863,7/1/2022,Imported,Confirmed,F,38,5/1/2022,Pending,Pending,Unknown,Pending
+12864,7/1/2022,Import-Related,Asymptomatic,F,49,,Pending,Pending,Unknown,Pending
+12865,7/1/2022,Imported,Confirmed,F,21,5/1/2022,Pending,Pending,Unknown,Pending
+12866,7/1/2022,Imported,Confirmed,F,30,5/1/2022,Pending,Pending,Unknown,Pending
+12867,7/1/2022,Imported,Confirmed,F,23,5/1/2022,Pending,Pending,Unknown,Pending
+12868,7/1/2022,Imported,Asymptomatic,F,26,,Pending,Pending,Unknown,Pending
+12869,7/1/2022,Imported,Confirmed,F,30,6/1/2022,Pending,Pending,Unknown,Pending
+12870,7/1/2022,Imported,Confirmed,M,31,6/1/2022,Pending,Pending,Unknown,Pending

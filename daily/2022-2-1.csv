@@ -1,0 +1,130 @@
+Case #,Report Date,Classification,Status,Gender,Age,Symptom Onset Date,Vaccination Status,Residence,Travel History,HK Resident
+14204,1/2/2022,Imported,Asymptomatic,M,44,,Some,"Ramada Hong Kong Grand, Tsim Sha Tsui",Nepal ,Pending
+14205,1/2/2022,Import-Related,Confirmed,M,69,28/1/2022,Pending,"Hing Ping House, Tai Hing Estate, Tuen Mun Junior Police Call Permanent Activity Centre",None,Pending
+14206,1/2/2022,Import-Related,Asymptomatic,M,49,,Pending,"Yat Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14207,1/2/2022,Imported,Asymptomatic,M,50,,Some,"Four Points by Sheraton Hong Kong, Tung Chung",Thailand ,Pending
+14208,1/2/2022,Imported,Confirmed,M,34,29/1/2022,Some,Dorsett Wanchai,Thailand ,Pending
+14209,1/2/2022,Imported,Asymptomatic,F,44,,Pending,"Metropark Hotel Kowloon, Ho Man Tin",Nepal ,Pending
+14210,1/2/2022,Imported,Asymptomatic,M,4,,Pending,"Four Points by Sheraton Hong Kong, Tung Chung",Mexico ,Pending
+14211,1/2/2022,Imported,Confirmed,M,40,29/1/2022,Some,"Empire Hotel, Causeway Bay",Spain ,Pending
+14212,1/2/2022,Imported,Asymptomatic,F,30,,Some,"Ramada Hong Kong Harbour View, Sai Ying Pun",Nepal ,Pending
+14213,1/2/2022,Imported,Confirmed,M,19,29/1/2022,Some,"Ramada Hong Kong Harbour View, Sai Ying Pun",Nepal ,Pending
+14214,1/2/2022,Imported,Asymptomatic,M,37,,Pending,Dorsett Wanchai,Singapore ,Pending
+14215,1/2/2022,Imported,Confirmed,M,50,29/1/2022,Some,"Best Western Plus Hotel, Sai Ying Pun",Brazil United Arab Emirates ,Pending
+14216,1/2/2022,Imported,Confirmed,F,12,28/1/2022,Some,"Best Western Plus Hotel, Sai Ying Pun",Brazil United Arab Emirates ,Pending
+14217,1/2/2022,Imported,Asymptomatic,M,37,,Some,"Best Western Hotel Causeway Bay, Causeway Bay",Nepal ,Pending
+14218,1/2/2022,Imported,Asymptomatic,M,58,,Some,"CM+ Hotels & Serviced Apartments, Sheung Wan",Argentina & Spain ,Pending
+14219,1/2/2022,Imported,Confirmed,M,45,29/1/2022,Some,"Rambler Garden Hotel, Tsing Yi",United Arab Emirates ,Pending
+14220,1/2/2022,Imported,Confirmed,M,20,29/1/2022,Some,"Regal Oriental Hotel, Kowloon City",Taiwan ,Pending
+14221,1/2/2022,Imported,Confirmed,F,39,28/1/2022,Pending,".. Ovolo Southside, Wong Chuk Hang",Nepal ,Pending
+14222,1/2/2022,Imported,Confirmed,M,20,29/1/2022,Some,"Best Western Hotel Causeway Bay, Causeway Bay",Estonia ,Pending
+14223,1/2/2022,Local-Linked,Confirmed,M,37,30/1/2022,Some,"Wu Kwong House, Wu King Estate, Tuen Mun",None,Pending
+14224,1/2/2022,Import-Related,Confirmed,F,59,30/1/2022,Pending,"Yat Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14225,1/2/2022,Local-Linked,Asymptomatic,M,6,,Pending,"416 Tower 16, Crystal Cove, Phase 4, Caribbean Coast, Tung Chung",None,Pending
+14226,1/2/2022,Import-Related,Confirmed,F,68,30/1/2022,Pending,"Ha Kwai House, Kwai Chung Estate, Kwai Chung",None,Pending
+14227,1/2/2022,Local-Linked,Confirmed,F,87,25/1/2022,Some,"Kwai Yan House, Kwai Fong Estate, Kwai Chung",None,Pending
+14228,1/2/2022,Local,Confirmed,F,56,29/1/2022,Pending,"Hoi Ngan Mansion, Riviera Gardens, Tsuen Wan",None,Pending
+14229,1/2/2022,Local,Confirmed,M,40,30/1/2022,Pending,"2081 Tower 1, Yuk Ming Towers, 208 Third Street, Sai Ying Pun",None,Pending
+14230,1/2/2022,Imported,Confirmed,F,34,30/1/2022,Some,"Regala Skycity Hotel, Chek Lap Kok",Indonesia ,Pending
+14231,1/2/2022,Imported,Asymptomatic,F,35,,Pending,"Regala Skycity Hotel, Chek Lap Kok",Indonesia ,Pending
+14232,1/2/2022,Imported,Asymptomatic,F,33,,Some,Empire Hotel Causeway Bay,Spain ,Pending
+14233,1/2/2022,Imported,Asymptomatic,F,2,,Pending,"Ramada Hong Kong Grand View, North Point",Nepal ,Pending
+14234,1/2/2022,Imported,Asymptomatic,F,41,,Some,"Regal Oriental Hotel, Kowloon City",Indonesia ,Pending
+14235,1/2/2022,Local-Linked,Confirmed,F,37,30/1/2022,Pending,"23 23 Wing Yiu Street, To Kwa Wan Silka Seaview",None,Pending
+14236,1/2/2022,Import-Related,Confirmed,F,43,30/1/2022,Some,"Fu Wah House, Tai Wo Hau Estate, Kwai Chung Silka Tsuen Wan",None,Pending
+14237,1/2/2022,Import-Related,Confirmed,M,46,30/1/2022,Some,"Fu Wah House, Tai Wo Hau Estate, Kwai Chung Silka Tsuen Wan",None,Pending
+14238,1/2/2022,Local-Linked,Asymptomatic,F,37,,Some,"2- 2K Shun King Building, 2-2K Nelson Street, Mong Kok Silka Seaview",None,Pending
+14239,1/2/2022,Local-Linked,Confirmed,F,34,28/1/2022,Pending,"MALIBU 5A1B Tower 1B, Phase 5A, Malibu, Lohas Park, Tseung Kwan O",None,Pending
+14240,1/2/2022,Local,Confirmed,M,64,26/1/2022,Some,"Sau Tai House, Fu Tai Estate, Tuen Mun",None,Pending
+14241,1/2/2022,Local-Linked,Confirmed,F,62,28/1/2022,Some,"4-20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",None,Pending
+14242,1/2/2022,Imported,Confirmed,M,78,29/1/2022,Pending,"Ramada Hong Kong Harbour View, Sai Ying Pun",Nepal ,Pending
+14243,1/2/2022,Imported,Asymptomatic,F,32,,Some,On Arrival,Australia ,Pending
+14244,1/2/2022,Local,Confirmed,M,44,29/1/2022,Some,"177- 191 Yue Sun Mansion, 177-191 Wuhu Street, Hung Hom",None,Pending
+14245,1/2/2022,Local-Linked,Confirmed,F,43,29/1/2022,Some,"On Kwai House, Kwai Fuk Court, Kwai Chung",None,Pending
+14246,1/2/2022,Local-Linked,Confirmed,F,53,25/1/2022,Some,"Sun Ming House, Sun Chui Estate, Tai Wai",None,Pending
+14247,1/2/2022,Local-Linked,Confirmed,M,19,27/1/2022,Some,"Sun Ming House, Sun Chui Estate, Tai Wai",None,Pending
+14248,1/2/2022,Import-Related,Confirmed,M,25,30/1/2022,Pending,"Yat Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14249,1/2/2022,Import-Related,Confirmed,M,13,30/1/2022,Some,"1 Block 1, Cheerful Garden, Chai Wan",None,Pending
+14250,1/2/2022,Local,Confirmed,M,53,30/1/2022,Some,"Shek Wah House, Shek Lei (2) Estate, Kwai Chung",None,Pending
+14251,1/2/2022,Local,Confirmed,M,61,27/1/2022,Some,"Yuet Ping House, Long Ping Estate, Yuen Long",None,Pending
+14252,1/2/2022,Local,Confirmed,F,34,30/1/2022,Some,"Wu Kwong House, Wu King Estate, Tuen Mun",None,Pending
+14253,1/2/2022,Local,Asymptomatic,F,58,,Some,"Yam Yue House, Shek Yam East Estate, Kwai Chung",None,Pending
+14254,1/2/2022,Local-Linked,Confirmed,M,29,30/1/2022,Pending,"Bik Shui House, Shui Pin Wai Estate, Yuen Long",None,Pending
+14255,1/2/2022,Local-Linked,Confirmed,F,8,30/1/2022,Pending,"4-20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",None,Pending
+14256,1/2/2022,Local-Linked,Confirmed,M,16,30/1/2022,Pending,"4-20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",None,Pending
+14257,1/2/2022,Import-Related,Confirmed,F,18,30/1/2022,Some,"Yung Lai House, Yau Lai Estate, Yau Tong Penny's Bay Quarantine Centre",None,Pending
+14258,1/2/2022,Local-Linked,Asymptomatic,M,5,,Pending,"Sze Yu House, Choi Wan (I) Estate, Wong Tai Sin",None,Pending
+14259,1/2/2022,Local-Linked,Confirmed,F,40,25/1/2022,Some,"Sze Yu House, Choi Wan (I) Estate, Wong Tai Sin",None,Pending
+14260,1/2/2022,Local-Linked,Confirmed,F,31,28/1/2022,Some,"Hoi Tung House, Hoi Lok Court, Cheung Sha Wan",None,Pending
+14261,1/2/2022,Local-Linked,Confirmed,F,38,31/1/2022,Some,"Leung Chi House, Leung King Estate, Tuen Mun",None,Pending
+14262,1/2/2022,Local,Asymptomatic,M,66,,Pending,"Tsui Wo House, Tai Wo Estate, Tai Po",None,Pending
+14263,1/2/2022,Local,Confirmed,M,61,24/1/2022,Some,"Kwai Tong House, Yau Tong Estate, Yau Tong",None,Pending
+14264,1/2/2022,Local,Confirmed,M,70,30/1/2022,Pending,"Tung Moon House, Tai Hang Tung Estate, Shek Kip Mei",None,Pending
+14265,1/2/2022,Local-Linked,Asymptomatic,F,33,,Pending,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",None,Pending
+14266,1/2/2022,Local,Confirmed,M,17,30/1/2022,Pending,"Tung Moon House, Tai Hang Tung Estate, Shek Kip Mei",None,Pending
+14267,1/2/2022,Local-Linked,Confirmed,F,56,26/1/2022,Some,"II11 Tower 11, Centra Horizon, Tai Po",None,Pending
+14268,1/2/2022,Local,Confirmed,M,25,29/1/2022,Pending,"2-4 Chung Nam Mansion, 2-4 Mok Cheong Street, To Kwa Wan",None,Pending
+14269,1/2/2022,Import-Related,Asymptomatic,F,0,,Pending,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan Dorsett Kwun Tong",None,Pending
+14270,1/2/2022,Import-Related,Asymptomatic,F,2,,Pending,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan Dorsett Kwun Tong",None,Pending
+14271,1/2/2022,Import-Related,Asymptomatic,F,1,,Pending,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan Dorsett Kwun Tong",None,Pending
+14272,1/2/2022,Local-Linked,Confirmed,M,62,30/1/2022,Some,"Tsui Wo House, Tai Wo Estate, Tai Po",None,Pending
+14273,1/2/2022,Local-Linked,Confirmed,F,49,30/1/2022,Pending,"Shin King House, Fu Shin Estate, Tai Po",None,Pending
+14274,1/2/2022,Local,Confirmed,F,27,30/1/2022,Pending,"26-28 26-28 Yin On Street, To Kwa Wan",None,Pending
+14275,1/2/2022,Imported,Confirmed,F,25,25/1/2022,Some,"Nina Hotel Island South, Wong Chuk Hang",Ukraine ,Pending
+14276,1/2/2022,Import-Related,Asymptomatic,M,44,,Some,"15-31 On Shun Building, 15-31 Shung Yan Street, Kwun Tong Lei Yue Mun Park and Holiday Village",None,Pending
+14277,1/2/2022,Import-Related,Asymptomatic,M,14,,Some,"15-31 On Shun Building, 15-31 Shung Yan Street, Kwun Tong Lei Yue Mun Park and Holiday Village",None,Pending
+14278,1/2/2022,Local-Linked,Asymptomatic,F,41,,Some,"C Block C, New Kwai Fong Gardens, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14279,1/2/2022,Import-Related,Confirmed,M,25,31/1/2022,Pending,"Chau Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14280,1/2/2022,Imported,Confirmed,F,28,30/1/2022,Some,Penny's Bay Quarantine Centre,Indonesia ,Pending
+14281,1/2/2022,Import-Related,Asymptomatic,F,29,,Some,"Ying Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14282,1/2/2022,Import-Related,Confirmed,M,37,30/1/2022,Some,"Lucky Court, Tsuen Wan Garden, Tsuen Wan Penny's Bay Quarantine Centre",None,Pending
+14283,1/2/2022,Local-Linked,Asymptomatic,M,43,,Some,"Yam Yue House, Shek Yam East Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14284,1/2/2022,Import-Related,Asymptomatic,M,16,,Some,"Luen Yan House, Kwai Luen Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14285,1/2/2022,Local-Linked,Asymptomatic,M,2,,Pending,"4J- 4K Hop Shing Building, 4J-4K Ma Tau Kok Road, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14286,1/2/2022,Local-Linked,Asymptomatic,M,14,,Some,"Yam Yue House, Shek Yam East Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14287,1/2/2022,Local-Linked,Asymptomatic,M,41,,Pending,"4J- 4K Hop Shing Building, 4J-4K Ma Tau Kok Road, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14288,1/2/2022,Local-Linked,Asymptomatic,F,4,,Pending,"4J- 4K Hop Shing Building, 4J-4K Ma Tau Kok Road, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14289,1/2/2022,Local-Linked,Confirmed,M,7,31/1/2022,Pending,"4J- 4K Hop Shing Building, 4J-4K Ma Tau Kok Road, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14290,1/2/2022,Local-Linked,Confirmed,F,34,31/1/2022,Pending,"4J- 4K Hop Shing Building, 4J-4K Ma Tau Kok Road, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14291,1/2/2022,Imported,Asymptomatic,F,61,,Pending,Penny's Bay Quarantine Centre,Nepal ,Pending
+14292,1/2/2022,Local-Linked,Asymptomatic,F,44,,Some,"Yam Yue House, Shek Yam East Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14293,1/2/2022,Local-Linked,Asymptomatic,F,10,,Some,"Yam Yue House, Shek Yam East Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14294,1/2/2022,Import-Related,Asymptomatic,M,40,,Some,"26-28 26-28 Fung Yi Street, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14295,1/2/2022,Import-Related,Asymptomatic,F,8,,Pending,"26-28 26-29 Fung Yi Street, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14296,1/2/2022,Local-Linked,Confirmed,F,10,27/1/2022,Pending,"18-20 18-20 Yin On Street, To Kwa Wan Dorsett Kwun Tong",None,Pending
+14297,1/2/2022,Local-Linked,Confirmed,F,33,30/1/2022,Pending,"18-20 18-21 Yin On Street, To Kwa Wan Dorsett Kwun Tong",None,Pending
+14298,1/2/2022,Local,Confirmed,M,71,29/1/2022,Some,"Fai Shing House, May Shing Court, Tai Wai",None,Pending
+14299,1/2/2022,Import-Related,Asymptomatic,F,11,,Pending,"26-28 26-29 Fung Yi Street, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14300,1/2/2022,Local-Linked,Confirmed,M,41,1/2/2022,Some,"Yat Yuet House, Choi Wan (I) Estate, Wong Tai Sin Dorsett Kwun Tong",None,Pending
+14301,1/2/2022,Import-Related,Asymptomatic,F,35,,Pending,"26-28 26-29 Fung Yi Street, To Kwa Wan Penny's Bay Quarantine Centre",None,Pending
+14302,1/2/2022,Import-Related,Confirmed,F,48,30/1/2022,Some,"Tsz Kwai House, Kwai Chung Estate, Kwai Chung",None,Pending
+14303,1/2/2022,Import-Related,Confirmed,F,42,31/1/2022,Some,"Hiu Kwai House, Kwai Chung Estate, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14304,1/2/2022,Local-Linked,Asymptomatic,F,25,,Some,"15-15A 15-15A Sheung Heung Road, To Kwa Wan",None,Pending
+14305,1/2/2022,Local,Asymptomatic,M,25,,Some,"15-15A 15-15A Sheung Heung Road, To Kwa Wan",None,Pending
+14306,1/2/2022,Import-Related,Asymptomatic,F,21,,Pending,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan Dorsett Kwun Tong",None,Pending
+14307,1/2/2022,Local-Linked,Confirmed,M,28,30/1/2022,Some,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",None,Pending
+14308,1/2/2022,Local-Linked,Asymptomatic,M,64,,Some,"102-106 102-106 Fuk Wing Street, Sham Shui Po",None,Pending
+14309,1/2/2022,Import-Related,Confirmed,M,21,30/1/2022,Some,"Tsz Kwai House, Kwai Chung Estate, Kwai Chung",None,Pending
+14310,1/2/2022,Local,Confirmed,M,83,29/1/2022,Pending,"141- 145 Chee Shing Building, 141-145 Wuhu Street, Hung Hom",None,Pending
+14311,1/2/2022,Local-Linked,Confirmed,M,27,30/1/2022,Some,"Ming Kok House, Ming Tak Estate, Tseung Kwan O",None,Pending
+14312,1/2/2022,Local-Linked,Confirmed,M,26,31/1/2022,Pending,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",None,Pending
+14313,1/2/2022,Local-Linked,Confirmed,M,60,31/1/2022,Some,"200- 206A Tung Fat Building, 200-206A Fa Yuen Street, Mong Kok",None,Pending
+14314,1/2/2022,Local-Linked,Confirmed,M,63,28/1/2022,Pending,"6 Block 6, Flora Plaza, Fanling",None,Pending
+14315,1/2/2022,Local-Linked,Confirmed,F,51,29/1/2022,Some,"89- 911 Phase 1, Tsui Yuen Mansion, 89-91 Dundas Street, Mong Kok",None,Pending
+14316,1/2/2022,Local-Linked,Confirmed,F,36,31/1/2022,Some,"2 Tower 2, Tivoli Garden, Tsing Yi Silka Tsuen Wan",None,Pending
+14317,1/2/2022,Local-Linked,Confirmed,F,58,29/1/2022,Pending,"Mei Tao House, Mei Lam Estate, Tai Wai",None,Pending
+14318,1/2/2022,Import-Related,Confirmed,M,35,30/1/2022,Some,"Ching Fung House, Ning Fung Court, Kwai Chung Penny's Bay Quarantine Centre",None,Pending
+14319,1/2/2022,Local-Linked,Confirmed,F,48,30/1/2022,Some,"1 Belleve Court, Phase 1, Pictorial Garden, Sha Tin",None,Pending
+14320,1/2/2022,Local-Linked,Confirmed,F,50,27/1/2022,Some,"11- 21 Kin Sun Building, 11-21 Yen Chow Street, Sham Shui Po",None,Pending
+14321,1/2/2022,Local,Confirmed,M,40,28/1/2022,Pending,"Lai Tong House, Lai Tsui Court, Cheung Sha Wan",None,Pending
+14322,1/2/2022,Local-Linked,Confirmed,F,49,28/1/2022,Pending,"Shek Fai House, Chun Shek Estate, Tai Wai",None,Pending
+14323,1/2/2022,Local,Confirmed,F,39,24/1/2022,Pending,"Opulent House, Affluence Garden, Tuen Mun",None,Pending
+14324,1/2/2022,Local,Confirmed,F,46,28/1/2022,Pending,"137-139 137-139 Nam Cheong Street, Sham Shui Po",None,Pending
+14325,1/2/2022,Local,Confirmed,F,53,28/1/2022,Some,"7 Block 7, Lung Mun Oasis, Tuen Mun",None,Pending
+14326,1/2/2022,Local-Linked,Confirmed,F,44,30/1/2022,Some,"10- 12 Tai On House, 10-12 Bedford Road, Tai Kok Tsui Penny's Bay Quarantine Centre",None,Pending
+14327,1/2/2022,Local-Linked,Confirmed,F,34,27/1/2022,Some,"B Block B, Choi Wui House, Choi Hing Court, Kowloon Bay Penny's Bay Quarantine Centre",None,Pending
+14328,1/2/2022,Local-Linked,Confirmed,F,22,28/1/2022,Pending,"Po Ning House, Po Lam Estate, Tseung Kwan O Penny's Bay Quarantine Centre",None,Pending
+14329,1/2/2022,Local-Linked,Confirmed,M,60,30/1/2022,Some,"P Block P, Luk Yeung Sun Chuen, Tsuen Wan Penny's Bay Quarantine Centre",None,Pending
+14330,1/2/2022,Local-Linked,Confirmed,M,58,30/1/2022,Some,"F Block F, Luk Yeung Sun Chuen, Tsuen Wan",None,Pending
+14331,1/2/2022,Local-Linked,Confirmed,F,56,27/1/2022,Pending,"Ping Yin House, Ping Yan Court, Yuen Long",None,Pending
+14332,1/2/2022,Local-Linked,Asymptomatic,F,52,,Pending,"6 Block 6, Bauhinia Garden, Tseung Kwan O",None,Pending

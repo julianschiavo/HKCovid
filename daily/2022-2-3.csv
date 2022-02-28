@@ -1,0 +1,143 @@
+Case #,Report Date,Classification,Status,Gender,Age,Symptom Onset Date,Vaccination Status,Residence,Travel History,HK Resident
+14449,3/2/2022,Linked,Confirmed,M,21,1/2/2022,Some,"Ying Kwai House, Kwai Chung Estate, Kwai Chung",Unknown,Pending
+14450,3/2/2022,Local,Confirmed,M,62,29/1/2022,Some,"Sun Fong House, Sun Chui Estate,Tai Wai",Unknown,Pending
+14451,3/2/2022,,Asymptomatic,M,78,,None,"Yung Wui House, Yung Shing Court, Fanling Penny's Bay Quarantine Centre",Unknown,Pending
+14452,3/2/2022,Linked,Confirmed,M,39,24/1/2022,Some,"Bik Tsui House, Kwai Tsui Estate, Kwai Chung",Unknown,Pending
+14453,3/2/2022,,Asymptomatic,F,18,,None,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan Dorsett Kwun Tong",Unknown,Pending
+14454,3/2/2022,Imported,Asymptomatic,F,52,,Some,. Ovolo Southside Penny's Bay Quarantine Centre,Nepal,Pending
+14455,3/2/2022,Linked,Confirmed,M,42,1/2/2022,Some,Hotel CO Zi Oasis Penny's Bay Quarantine Centre,Unknown,Pending
+14456,3/2/2022,Linked,Confirmed,F,50,2/2/2022,None,"46 Hing Lung Building, 46 Wan Fung Street, Wong Tai Sin Dorsett Kwun Tong",Unknown,Pending
+14457,3/2/2022,,Asymptomatic,F,85,,None,"Wing Wah Building, Ming Fung Street, Wong Tai Sin",Unknown,Pending
+14458,3/2/2022,Linked,Confirmed,F,51,31/1/2022,None,"33 Tower 3, Phase 3, Festival City, Sha Tin",Unknown,Pending
+14459,3/2/2022,Linked,Asymptomatic,F,30,,None,"26-28 26-28 Yin On Street, To Kwa Wan",Unknown,Pending
+14460,3/2/2022,Local,Confirmed,F,34,31/1/2022,Some,"Ching Yuen House, Tsz Ching Estate, Tsz Wan Shan",Unknown,Pending
+14461,3/2/2022,Linked,Confirmed,F,8,1/2/2022,None,"4- 20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",Unknown,Pending
+14462,3/2/2022,Linked,Asymptomatic,M,51,,None,"4- 20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",Unknown,Pending
+14463,3/2/2022,Imported,Confirmed,F,47,1/2/2022,Some,"Best Western Plus Hotel Hong Kong, Sai Ying Pun",Brazil,Pending
+14464,3/2/2022,Linked,Confirmed,M,60,30/1/2022,Some,"Nelly Heights, Belair Gardens, Sha Tin",Unknown,Pending
+14465,3/2/2022,Linked,Confirmed,F,47,30/1/2022,None,"Willow House, So Uk Estate, Cheung Sha Wan Po Ning House, Po Lam Estate, Tseung Kwan O",Unknown,Pending
+14466,3/2/2022,Linked,Confirmed,F,56,1/2/2022,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview Hotel Hong Kong",Unknown,Pending
+14467,3/2/2022,Local,Confirmed,F,51,31/1/2022,Some,"Nelly Heights, Belair Gardens, Sha Tin",Unknown,Pending
+14468,3/2/2022,Linked,Confirmed,M,47,30/1/2022,None,"D Block D, Plover Cove Garden, Tai Po",Unknown,Pending
+14469,3/2/2022,Local,Confirmed,M,35,30/1/2022,None,"Tai Hang Chung Sum Wai, Tai Po",Unknown,Pending
+14470,3/2/2022,Local,Confirmed,M,26,28/1/2022,None,"Ping Yee House, Tai Ping Estate, Sheung Shui",Unknown,Pending
+14471,3/2/2022,Local,Confirmed,M,79,30/1/2022,Some,"Hing Chung House, Mei Chung Court, Tai Wai",Unknown,Pending
+14472,3/2/2022,Linked,Confirmed,F,33,31/1/2022,None,"Tai Hang Chung Sum Wai, Tai Po",Unknown,Pending
+14473,3/2/2022,Local,Confirmed,M,58,30/1/2022,None,"18 Lagoon Court, 18 Plover Cove Road, Tai Po",Unknown,Pending
+14474,3/2/2022,Linked,Confirmed,M,47,1/2/2022,Some,"7 Tower 7, Discovery Park, Tsuen Wan",Unknown,Pending
+14475,3/2/2022,Imported,Confirmed,M,21,2/2/2022,Some,On Arrival,Germany,Pending
+14476,3/2/2022,Imported,Confirmed,M,21,28/1/2022,Some,On Arrival,Germany,Pending
+14477,3/2/2022,Linked,Confirmed,M,37,27/1/2022,None,"11 Tower 11, Avignon, So Kwun Wat",Unknown,Pending
+14478,3/2/2022,Linked,Confirmed,F,9,29/1/2022,None,"7 Tower 7, Harbour Glory, North Point",Unknown,Pending
+14479,3/2/2022,Linked,Confirmed,M,36,31/1/2022,Some,"2 Tower 2, Marbella, Ma On Shan",Unknown,Pending
+14480,3/2/2022,Linked,Confirmed,F,38,31/1/2022,None,"2 Tower 2, Marbella, Ma On Shan",Unknown,Pending
+14481,3/2/2022,Local,Confirmed,F,43,25/1/2022,Some,"Yan Yuet House, Yan On Estate, Ma On Shan",Unknown,Pending
+14482,3/2/2022,Local,Confirmed,F,58,31/1/2022,None,"14 Block 14, Tsui Chuk Garden, Wong Tai Sin",Unknown,Pending
+14483,3/2/2022,Linked,Confirmed,F,31,30/1/2022,None,"1 Block 1, Ravana Garden, Sha Tin",Unknown,Pending
+14484,3/2/2022,Linked,Confirmed,M,28,1/2/2022,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",Unknown,Pending
+14485,3/2/2022,Imported,Asymptomatic,M,31,,Some,On Arrival,Egypt,Pending
+14486,3/2/2022,Imported,Asymptomatic,F,39,,Some,On Arrival,Russia,Pending
+14487,3/2/2022,Imported,Asymptomatic,F,62,,Some,On Arrival,Turkey,Pending
+14488,3/2/2022,Imported,Asymptomatic,F,32,,None,On Arrival,Turkey,Pending
+14489,3/2/2022,Imported,Asymptomatic,M,28,,Some,On Arrival,Turkey,Pending
+14490,3/2/2022,Imported,Asymptomatic,F,25,,Some,On Arrival,Ukraine,Pending
+14491,3/2/2022,Linked,Confirmed,F,47,1/2/2022,Some,"137-139 137-139 Nam Cheong Street, Sham Shui Po",Unknown,Pending
+14492,3/2/2022,Linked,Confirmed,M,65,31/1/2022,Some,"Hing Ping House, Tai Hing Estate, Tuen Mun",Unknown,Pending
+14493,3/2/2022,Linked,Confirmed,F,60,29/1/2022,None,"10 Block 10, Serenity Villa, Tai Po",Unknown,Pending
+14494,3/2/2022,Linked,Asymptomatic,M,26,,None,"10 Block 10, Serenity Villa, Tai Po",Unknown,Pending
+14495,3/2/2022,Linked,Asymptomatic,F,30,,None,"10 Block 10, Serenity Villa, Tai Po",Unknown,Pending
+14496,3/2/2022,Local,Asymptomatic,F,47,,Some,"Tung Moon House, Tai Hang Tung Estate, Shek Kip Mei",Unknown,Pending
+14497,3/2/2022,,Asymptomatic,F,8,,None,"Tung Moon House, Tai Hang Tung Estate, Shek Kip Mei",Unknown,Pending
+14498,3/2/2022,Linked,Asymptomatic,F,51,,Some,"Him Tat House, On Tat Estate, Kwun Tong",Unknown,Pending
+14499,3/2/2022,Local,Confirmed,F,45,31/1/2022,None,"68-70 68-70 Yen Chow Street, Sham Shui Po",Unknown,Pending
+14500,3/2/2022,Linked,Confirmed,M,58,31/1/2022,Some,"7 Block 7, Sun Tuen Mun Centre, Tuen Mun",Unknown,Pending
+14501,3/2/2022,Local,Confirmed,M,29,1/2/2022,Some,"Shek Wing House, Shek Lei (II) Estate, Kwai Chung",Unknown,Pending
+14502,3/2/2022,Local,Asymptomatic,M,84,,None,"12 Block 12, Park Island, Ma Wan",Unknown,Pending
+14503,3/2/2022,Local,Confirmed,M,68,31/1/2022,Some,"Shek Yat House, Shek Lei (I) Estate, Kwai Chung",Unknown,Pending
+14504,3/2/2022,Local,Asymptomatic,F,74,,Some,"2 Block 2, City Garden, North Point",Unknown,Pending
+14505,3/2/2022,Imported,Confirmed,F,42,1/2/2022,Some,Courtyard by Marriott Hong Kong Sha Tin,Indonesia,Pending
+14506,3/2/2022,Local,Asymptomatic,F,47,,Some,"Ching Yi House, Tsz Ching Estate, Tsz Wan Shan",Unknown,Pending
+14507,3/2/2022,Linked,Confirmed,M,60,30/1/2022,None,"King Lai House, Shan King Estate, Tuen Mun",Unknown,Pending
+14508,3/2/2022,Linked,Confirmed,F,39,1/2/2022,Some,"Shui Tsiu San Tsuen, Yuen Long",Unknown,Pending
+14509,3/2/2022,Linked,Asymptomatic,M,41,,None,"Shui Tsiu San Tsuen, Yuen Long",Unknown,Pending
+14510,3/2/2022,Linked,Confirmed,M,59,31/1/2022,Some,"Fairview Park, Yuen Long",Unknown,Pending
+14511,3/2/2022,Linked,Confirmed,F,11,1/2/2022,None,"7 Tower 7, Discovery Park, Tsuen Wan",Unknown,Pending
+14512,3/2/2022,Linked,Confirmed,M,67,1/2/2022,Some,"Po Ning House, Po Lam Estate, Tseung Kwan O",Unknown,Pending
+14513,3/2/2022,Linked,Confirmed,F,51,31/1/2022,Some,"6 Block 6, Kwai Shing West Estate, Kwai Chung",Unknown,Pending
+14514,3/2/2022,Linked,Confirmed,M,38,31/1/2022,None,"174- 188A Block A, Hung Yu Mansion, 174-188 Un Chau Street, Sham Shui Po",Unknown,Pending
+14515,3/2/2022,Linked,Confirmed,M,43,1/2/2022,None,"On Hoi House, Cheung On Estate,Tsing Yi",Unknown,Pending
+14516,3/2/2022,Linked,Confirmed,M,34,31/1/2022,Some,"6 Park Garden, 6 Tai Hang Drive, Causeway Bay",Unknown,Pending
+14517,3/2/2022,Linked,Confirmed,F,33,31/1/2022,Some,"6 Park Garden, 6 Tai Hang Drive, Causeway Bay",Unknown,Pending
+14518,3/2/2022,Linked,Confirmed,F,27,1/2/2022,Some,"Fu Tong House, Yau Tong Estate, Yau Tong",Unknown,Pending
+14519,3/2/2022,Linked,Confirmed,F,54,31/1/2022,Some,"1 Hong Chi Court, Phase 1, Healthy Village, North Point",Unknown,Pending
+14520,3/2/2022,Local,Confirmed,M,63,1/2/2022,None,"2 Tower 2, Pacific Palisades, North Point",Unknown,Pending
+14521,3/2/2022,Imported,Confirmed,M,76,1/2/2022,Some,"Best Western Plus Hotel Hong Kong, Sai Ying Pun",Mexico via Japan,Pending
+14522,3/2/2022,Linked,Confirmed,F,52,,None,Pending,Unknown,Pending
+14523,3/2/2022,,Asymptomatic,F,73,,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14524,3/2/2022,Linked,Confirmed,M,28,1/2/2022,Some,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14525,3/2/2022,Linked,Confirmed,F,60,30/1/2022,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",Unknown,Pending
+14526,3/2/2022,Linked,Asymptomatic,M,70,,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14527,3/2/2022,Linked,Confirmed,F,16,31/1/2022,Some,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin",Unknown,Pending
+14528,3/2/2022,Linked,Confirmed,F,74,1/2/2022,Some,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14529,3/2/2022,Linked,Confirmed,M,61,1/2/2022,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14530,3/2/2022,Imported,Asymptomatic,M,41,,None,On Arrival,Unknown,Pending
+14531,3/2/2022,Imported,Asymptomatic,M,53,,None,On Arrival,Unknown,Pending
+14532,3/2/2022,Imported,Asymptomatic,M,41,,None,On Arrival,Unknown,Pending
+14533,3/2/2022,Linked,Confirmed,F,21,31/1/2022,None,"Luen Yuet House, Kwai Luen Estate, Kwai Chung",Unknown,Pending
+14534,3/2/2022,Linked,Confirmed,F,77,31/1/2022,Some,"Bik Shui House, Shui Pin Wai Estate, Yuen Long",Unknown,Pending
+14535,3/2/2022,Local,Confirmed,F,21,1/2/2022,Some,"Kau Liu Ha Village, Lam Tsuen, Tai Po",Unknown,Pending
+14536,3/2/2022,Linked,Confirmed,F,49,1/2/2022,None,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Silka Seaview, Yau Ma Tei",Unknown,Pending
+14537,3/2/2022,Local,Confirmed,F,28,31/1/2022,Some,"Ping Mei House, Ping Tin Estate, Lam Tin",Unknown,Pending
+14538,3/2/2022,Local,Confirmed,M,61,1/2/2022,None,"Sze Yu House, Choi Wan (I) Estate, Wong Tai Sin",Unknown,Pending
+14539,3/2/2022,Linked,Confirmed,F,21,2/2/2022,Some,"Yok Yu House, Choi Wan (II) Estate, Wong Tai Sin Penny's Bay Quarantine Centre",Unknown,Pending
+14540,3/2/2022,Linked,Asymptomatic,F,31,,Some,"Kwai Foon House, Kwai Fong Estate, Kwai Chung Penny's Bay Quarantine Centre",Unknown,Pending
+14541,3/2/2022,Linked,Confirmed,M,46,1/2/2022,Some,"Ming Lai House, Choi Wan (II) Estate, Wong Tai Sin Penny's Bay Quarantine Centre",Unknown,Pending
+14542,3/2/2022,Local,Asymptomatic,M,47,,Some,"6 Area 6, Sha Tin Tau San Tsuen, Tai Wai, Sha Tin",Unknown,Pending
+14543,3/2/2022,Local,Confirmed,F,48,31/1/2022,Some,"Wing Shue House, Lei Muk Shue Estate, Tsuen Wan",Unknown,Pending
+14544,3/2/2022,Linked,Asymptomatic,F,22,,Some,"8 Block 8, Beverly Garden, Tseung Kwan O",Unknown,Pending
+14545,3/2/2022,,Confirmed,F,27,1/2/2022,None,"31 Rich Court, 31 Chik Fu Street, Tai Wai",Unknown,Pending
+14546,3/2/2022,Linked,Confirmed,F,50,31/1/2022,Some,"1021 1021 Canton Road, Mong Kok",Unknown,Pending
+14547,3/2/2022,Linked,Confirmed,F,44,31/1/2022,Some,"34 Block 4, Belair Monte, 3 Ma Sik Road, Fanling Novotel Citygate Hong Kong",Unknown,Pending
+14548,3/2/2022,Local,Confirmed,F,55,28/1/2022,None,"9 Block 9, Grandeur Terrace, Tin Shui Wai",Unknown,Pending
+14549,3/2/2022,Linked,Confirmed,F,47,31/1/2022,None,"42- 58A Ho Choi Building, 42-58A On Hing Street, Yuen Long",Unknown,Pending
+14550,3/2/2022,Local,Confirmed,M,61,29/1/2022,None,"42- 58A Ho Choi Building, 42-58A On Hing Street, Yuen Long",Unknown,Pending
+14551,3/2/2022,Linked,Confirmed,F,39,2/2/2022,Some,"On Kwai House, Kwai Fuk Court, Kwai Chung",Unknown,Pending
+14552,3/2/2022,Imported,Asymptomatic,F,20,,None,Ramada Hong Kong Harbour View Penny's Bay Quarantine Centre,Nepal,Pending
+14553,3/2/2022,Linked,Confirmed,M,41,1/2/2022,Some,"183 183 Kowloon City Road, To Kwa Wan Penny's Bay Quarantine Centre",Unknown,Pending
+14554,3/2/2022,Linked,Confirmed,M,14,1/2/2022,None,"Luen Hei House, Kwai Luen Estate, Kwai Chung Penny's Bay Quarantine Centre",Unknown,Pending
+14555,3/2/2022,Linked,Confirmed,F,58,1/2/2022,Some,"Long Fung House, Ning Fung Court, Kwai Chung",Unknown,Pending
+14556,3/2/2022,Linked,Confirmed,F,43,31/1/2022,Some,"2 1 Phase 1 Mei King Mansion, 2 Mei King Street, To Kwa Wan",Unknown,Pending
+14557,3/2/2022,Imported,Asymptomatic,M,13,,Some,Metropark Hotel Kowloon Hong Kong Penny's Bay Quarantine Centre,Nepal,Pending
+14558,3/2/2022,Linked,Confirmed,F,58,31/1/2022,Some,"Yuet Ping House, Long Ping Estate, Yuen Long",Unknown,Pending
+14559,3/2/2022,Linked,Confirmed,F,24,31/1/2022,None,"Yuet Ping House, Long Ping Estate, Yuen Long",Unknown,Pending
+14560,3/2/2022,Linked,Confirmed,F,13,1/2/2022,Some,"Willow House, So Uk Estate, Cheung Sha Wan",Unknown,Pending
+14561,3/2/2022,Linked,Confirmed,M,42,27/1/2022,None,"Kar Yam House, On Yam Estate, Kwai Chung",Unknown,Pending
+14562,3/2/2022,Imported,Confirmed,F,60,31/1/2022,None,Metropark Hotel Kowloon Hong Kong,Nepal,Pending
+14563,3/2/2022,Local,Confirmed,M,59,29/1/2022,None,"2-4 Mee Wah Building, 2-4 Heung Shing Street, Tsuen Wan",Unknown,Pending
+14564,3/2/2022,Imported,Asymptomatic,M,25,,Some,On Arrival,Switzerl & via Finl &,Pending
+14565,3/2/2022,Local,Asymptomatic,F,28,,None,"27- 28 Lai Tai Building, 27-28 Wa Fung Street, Hung Hom",Unknown,Pending
+14566,3/2/2022,Linked,Confirmed,M,54,2/2/2022,Some,"25 Dover Court, Tower 25, South Horizons, Ap Lei Chau",Unknown,Pending
+14567,3/2/2022,Linked,Asymptomatic,M,37,,Some,"23 23 Wing Yiu Street, To Kwa Wan",Unknown,Pending
+14568,3/2/2022,Linked,Confirmed,F,44,1/2/2022,None,"4- 20 Mei Sun Building, 4-20 Kau Hui Chik Street, Tai Po",Unknown,Pending
+14569,3/2/2022,,Confirmed,M,49,2/2/2022,None,"Po Ning House, Po Lam Estate, Tseung Kwan O Penny's Bay Quarantine Centre",Unknown,Pending
+14570,3/2/2022,Linked,Confirmed,M,52,31/1/2022,None,"406 Stage 6, Mei Foo Sun Chuen, 40 Nassau Street, Lai Chi Kok Hotel Cozi Oasis",Unknown,Pending
+14571,3/2/2022,Local,Confirmed,F,10,1/2/2022,None,"1483 Block 3, Golden Building, 148 Fuk Wa Street, Sham Shui Po",Unknown,Pending
+14572,3/2/2022,Local,Confirmed,F,35,30/1/2022,None,"Shung Lam Court, Lucky Plaza, Sha Tin",Unknown,Pending
+14573,3/2/2022,Linked,Confirmed,F,60,2/2/2022,None,"78- 90 On Lung Building, 78-90 Mei King Street, To Kwa Wan",Unknown,Pending
+14574,3/2/2022,Linked,Confirmed,M,6,1/2/2022,None,"Fung Lai House, Yau Lai Estate, Yau Tong",Unknown,Pending
+14575,3/2/2022,Linked,Asymptomatic,F,9,,None,"232 Tower 2, Bailey Garden, 23 Bailey Street, Hung Hom",Unknown,Pending
+14576,3/2/2022,Local,Confirmed,F,69,31/1/2022,None,"Hin Yau House, Hin Keng Estate, Tai Wai",Unknown,Pending
+14577,3/2/2022,Local,Confirmed,F,35,1/2/2022,None,"70G Block G, Honour Building, 70 Sheung Heung Road, To Kwa Wan",Unknown,Pending
+14578,3/2/2022,Linked,Confirmed,F,62,31/1/2022,None,"Kwai Hei House, Kwai Fong Estate, Kwai Chung Penny's Bay Quarantine Centre",Unknown,Pending
+14579,3/2/2022,Linked,Asymptomatic,F,55,,None,Penny's Bay Quarantine Centre,Unknown,Pending
+14580,3/2/2022,Linked,Confirmed,F,12,2/2/2022,None,"Luen Hei House, Kwai Luen Estate, Kwai Chung Penny's Bay Quarantine Centre",Unknown,Pending
+14581,3/2/2022,Linked,Confirmed,F,9,31/1/2022,None,"33 Tower 3, Phase 3, Festival City, Sha Tin",Unknown,Pending
+14582,3/2/2022,Local,Confirmed,M,40,31/1/2022,Some,"Chung Yan House, Tin Chung Court, Tin Shui Wai",Unknown,Pending
+14583,3/2/2022,Linked,Confirmed,F,58,31/1/2022,Some,"Sau Tai House, Fu Tai Estate, Tuen Mun",Unknown,Pending
+14584,3/2/2022,Local,Asymptomatic,M,54,,Some,"Hong Tim House, Tsz Hong Estate, Tsz Wan Shan",Unknown,Pending
+14585,3/2/2022,Linked,Asymptomatic,F,41,,Some,"Oi Chung House, Tsz Oi Court, Tsz Wan Shan",Unknown,Pending
+14586,3/2/2022,Linked,Asymptomatic,F,44,,Some,"Tung Yuen House, Chuk Yuen North Estate, Wong Tai Sin",Unknown,Pending
+14587,3/2/2022,Local,Confirmed,F,15,1/2/2022,Some,"Tung Yuen House, Chuk Yuen North Estate, Wong Tai Sin",Unknown,Pending
+14588,3/2/2022,Linked,Asymptomatic,F,12,,Some,"Tung Yuen House, Chuk Yuen North Estate, Wong Tai Sin",Unknown,Pending
+14589,3/2/2022,Imported,Asymptomatic,M,53,,Some,On Arrival,Germany via Finl &,Pending
+14590,3/2/2022,Imported,Confirmed,F,31,2/2/2022,Some,On Arrival,Germany via Finl &,Pending

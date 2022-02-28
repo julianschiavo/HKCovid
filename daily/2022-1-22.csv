@@ -1,0 +1,27 @@
+Case #,Report Date,Classification,Status,Gender,Age,Symptom Onset Date,Vaccination Status,Residence,Travel History,HK Resident
+13126,22/1/2022,Import-Related,Confirmed,F,24,20/1/2022,Pending,Pending,Unknown,Pending
+13127,22/1/2022,Import-Related,Confirmed,F,64,17/1/2022,Pending,Pending,Unknown,Pending
+13128,22/1/2022,Import-Related,Confirmed,F,46,19/1/2022,Pending,Pending,Unknown,Pending
+13129,22/1/2022,Import-Related,Confirmed,F,52,20/1/2022,Pending,Pending,Unknown,Pending
+13130,22/1/2022,Import-Related,Asymptomatic,F,88,,Pending,Pending,Unknown,Pending
+13131,22/1/2022,Import-Related,Asymptomatic,M,23,,Pending,Pending,Unknown,Pending
+13132,22/1/2022,Import-Related,Confirmed,M,40,19/1/2022,Pending,Pending,Unknown,Pending
+13133,22/1/2022,Import-Related,Confirmed,M,42,20/1/2022,Pending,Pending,Unknown,Pending
+13134,22/1/2022,Import-Related,Confirmed,F,40,20/1/2022,Pending,Pending,Unknown,Pending
+13135,22/1/2022,Import-Related,Confirmed,M,14,20/1/2022,Pending,Pending,Unknown,Pending
+13136,22/1/2022,Local-Linked,Confirmed,F,63,20/1/2022,Pending,Pending,Unknown,Pending
+13137,22/1/2022,Import-Related,Confirmed,M,15,21/1/2022,Pending,Pending,Unknown,Pending
+13138,22/1/2022,Import-Related,Confirmed,M,13,21/1/2022,Pending,Pending,Unknown,Pending
+13139,22/1/2022,Import-Related,Confirmed,M,15,19/1/2022,Pending,Pending,Unknown,Pending
+13140,22/1/2022,Import-Related,Confirmed,M,15,21/1/2022,Pending,Pending,Unknown,Pending
+13141,22/1/2022,Imported,Asymptomatic,F,5,,Pending,Pending,Unknown,Pending
+13142,22/1/2022,Import-Related,Asymptomatic,M,61,,Pending,Pending,Unknown,Pending
+13143,22/1/2022,Import-Related,Confirmed,M,34,21/1/2022,Pending,Pending,Unknown,Pending
+13144,22/1/2022,NA,Deleted,NA,,,Pending,Pending,Unknown,Pending
+13145,22/1/2022,Import-Related,Confirmed,M,2,20/1/2022,Pending,Pending,Unknown,Pending
+13146,22/1/2022,Local,Confirmed,F,81,18/1/2022,Pending,Pending,Unknown,Pending
+13147,22/1/2022,Local-Linked,Confirmed,M,62,18/1/2022,Pending,Pending,Unknown,Pending
+13148,22/1/2022,Import-Related,Asymptomatic,F,8,,Pending,Pending,Unknown,Pending
+13149,22/1/2022,Import-Related,Confirmed,M,55,21/1/2022,Pending,Pending,Unknown,Pending
+13150,22/1/2022,Import-Related,Confirmed,F,37,20/1/2022,Pending,Pending,Unknown,Pending
+13151,22/1/2022,Local-Linked,Asymptomatic,M,25,,Pending,Pending,Unknown,Pending
