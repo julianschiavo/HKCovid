@@ -210,7 +210,7 @@
 15623,7/2/2022,Female,48,Confirmed,3/2/2022,Pending,None,Local,Y,Y
 15624,7/2/2022,Female,42,Confirmed,3/2/2022,Pending,None,Local,Y,Y
 15625,7/2/2022,Female,42,Confirmed,3/2/2022,Pending,None,Local,Y,Y
-15626,7/2/2022,Pending,Pending,Pending,,Pending,None,Local,Pending,Pending
+15626,7/2/2022,Pending,,Pending,,Pending,None,Local,Pending,Pending
 15627,7/2/2022,Female,39,Confirmed,5/2/2022,Pending,None,Local,Pending,N
 15628,7/2/2022,Male,40,Confirmed,6/2/2022,Pending,None,Local,Y,Y
 15629,7/2/2022,Male,45,Confirmed,4/2/2022,Pending,None,Local,Y,Y
@@ -328,7 +328,7 @@
 15741,7/2/2022,Male,57,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15742,7/2/2022,Female,40,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15743,7/2/2022,Male,38,Confirmed,4/2/2022,Pending,None,Local,Y,Y
-15744,7/2/2022,Female,Pending,Pending,,Pending,None,Local,Pending,Pending
+15744,7/2/2022,Female,,Pending,,Pending,None,Local,Pending,Pending
 15745,7/2/2022,Female,45,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15746,7/2/2022,Female,41,Confirmed,3/2/2022,Pending,None,Local,Pending,Y
 15747,7/2/2022,Female,30,Confirmed,2/2/2022,Pending,None,Local,Y,Y
@@ -375,7 +375,7 @@
 15788,7/2/2022,Female,36,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15789,7/2/2022,Female,61,Confirmed,3/2/2022,Pending,None,Local,Y,Y
 15790,7/2/2022,Female,35,Confirmed,5/2/2022,Pending,None,Local,Y,N
-15791,7/2/2022,Female,Pending,Pending,,Pending,None,Local,Pending,Pending
+15791,7/2/2022,Female,,Pending,,Pending,None,Local,Pending,Pending
 15792,7/2/2022,Female,51,Asymptomatic,,Pending,None,Local,Y,Y
 15793,7/2/2022,Female,41,Confirmed,4/2/2022,Pending,None,Local,Pending,Y
 15794,7/2/2022,Female,67,Confirmed,5/2/2022,Pending,None,Local,Y,Y
@@ -420,7 +420,7 @@
 15833,7/2/2022,Male,85,Confirmed,4/2/2022,Pending,None,Local,Pending,Y
 15834,7/2/2022,Male,25,Confirmed,5/2/2022,Pending,None,Local,Y,Y
 15835,7/2/2022,Female,37,Confirmed,5/2/2022,Pending,None,Local,Y,Y
-15836,7/2/2022,Pending,Pending,Pending,,Pending,None,Local,Pending,Pending
+15836,7/2/2022,Pending,,Pending,,Pending,None,Local,Pending,Pending
 15837,7/2/2022,Female,39,Confirmed,5/2/2022,Pending,None,Local,Y,N
 15838,7/2/2022,Female,42,Confirmed,3/2/2022,Pending,None,Local,Y,Y
 15839,7/2/2022,Female,38,Confirmed,4/2/2022,Pending,None,Local,Y,Y
@@ -545,7 +545,7 @@
 15958,7/2/2022,Male,44,Confirmed,3/2/2022,Pending,None,Local,Y,Y
 15959,7/2/2022,Male,32,Confirmed,6/2/2022,Pending,None,Local,Y,Y
 15960,7/2/2022,Male,50,Confirmed,5/2/2022,Pending,None,Local,Y,Y
-15961,7/2/2022,Pending,Pending,Pending,,Pending,None,Local,Pending,Pending
+15961,7/2/2022,Pending,,Pending,,Pending,None,Local,Pending,Pending
 15962,7/2/2022,Male,57,Confirmed,6/2/2022,Pending,None,Local,Y,Y
 15963,7/2/2022,Male,62,Asymptomatic,,Pending,None,Local,Y,Y
 15964,7/2/2022,Female,31,Confirmed,2/2/2022,Pending,None,Local,Y,Y
@@ -570,13 +570,13 @@
 15983,7/2/2022,Female,50,Confirmed,2/2/2022,Pending,None,Local,Pending,Y
 15984,7/2/2022,Male,21,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15985,7/2/2022,Male,67,Confirmed,3/2/2022,Pending,None,Local,Y,Y
-15986,7/2/2022,Female,Pending,Pending,,Pending,None,Local,Pending,Pending
+15986,7/2/2022,Female,,Pending,,Pending,None,Local,Pending,Pending
 15987,7/2/2022,Female,75,Confirmed,3/2/2022,Pending,None,Local,Y,Y
-15988,7/2/2022,Pending,Pending,Pending,,Pending,None,Local,Pending,Pending
+15988,7/2/2022,Pending,,Pending,,Pending,None,Local,Pending,Pending
 15989,7/2/2022,Female,29,Confirmed,2/2/2022,Pending,None,Local,Y,Y
 15990,7/2/2022,Male,57,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15991,7/2/2022,Male,28,Asymptomatic,,Pending,None,Local,Pending,Y
-15992,7/2/2022,Pending,Pending,Pending,,Pending,None,Local,Pending,Pending
+15992,7/2/2022,Pending,,Pending,,Pending,None,Local,Pending,Pending
 15993,7/2/2022,Female,54,Confirmed,4/2/2022,Pending,None,Local,Y,Y
 15994,7/2/2022,Female,41,Confirmed,5/2/2022,Pending,None,Local,Y,Y
 15995,7/2/2022,Male,50,Confirmed,5/2/2022,Pending,None,Local,Pending,Y
