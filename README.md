@@ -1,18 +1,57 @@
 # Covid in HK
 Full case details for reported Covid-19 cases in Hong Kong, shared by the Communicable Diseases Branch of the Center for Health Protection (CHP) of the Department of Health (DH).
 
+**[Data](#data)**
+
+**[Structure](#structure)**
+
+**[Dates & Upcoming Data](#timeframes)**
+
+<br>
+
 ## Data
 
 - `daily/YYYY-MM-DD.csv`: Full Case Details for DD/MM/YYYY
 - `all.csv`: All Full Case Details from 07/02/2022 to Last Report Date
 
+<br>
+
 ## Structure
 
 Each `csv` file contains the following information:
-| Column      	| Case #           	| Report Date                     	| Gender                  	| Age                         	| Status                               	| Symptom Onset Date                                    	| Residence                                              	| Travel History                                                	| Classification                               	| Full Vaccination Status                                                                                          	| HK Resident                                               	|
-|-------------	|------------------	|---------------------------------	|-------------------------	|-----------------------------	|--------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------	|---------------------------------------------------------------	|----------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------	|
-| Description 	| The case number. 	| The date the case was reported. 	| The gender of the case. 	| The age of the case.        	| The most recently known case status. 	| For symptomatic cases, the date of onset of symptoms. 	| The case's last-known residence prior to confirmation. 	| Recent travel history of the case.                            	| The most recently known case classification. 	| Whether the case was fully vaccinated.                                                                           	| Whether the case was a Hong Kong resident or a foreigner. 	|
-| Format      	| Number           	| Date (D/M/YYYY)                 	| M/F                     	| Number, or empty if Pending 	| Confirmed/Asymptomatic/Pending       	| Date (D/M/YYYY), or empty if pending or asymptomatic. 	| Text, or "Pending" if pending.                         	| Text (Place/Place2), or "None" if no recorded travel history. 	| Local/Imported                               	| "Y" if vaccinated with two doses, "N" if unvaccinated or vaccinated with a single dose, or "Pending" if pending. 	| Y/N, or "Pending" if pending.                             	|
+| Column      	| Case #           	| Report Date                     	| Gender                  	| Age                         	| Status                               	| Symptom Onset Date                                      	| Residence                                              	| Travel History                                                  	| Classification                               	| Full Vaccination Status                                                                                          	| HK Resident                                               	|
+|-------------	|------------------	|---------------------------------	|-------------------------	|-----------------------------	|--------------------------------------	|---------------------------------------------------------	|--------------------------------------------------------	|-----------------------------------------------------------------	|----------------------------------------------	|------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------	|
+| Description 	| The case number. 	| The date the case was reported. 	| The gender of the case. 	| The age of the case.        	| The most recently known case status. 	| For symptomatic cases, the date of onset of symptoms.   	| The case's last-known residence prior to confirmation. 	| Recent travel history of the case.                              	| The most recently known case classification. 	| Whether the case was fully vaccinated.                                                                           	| Whether the case was a Hong Kong resident or a foreigner. 	|
+| Format      	| Number           	| Date (`D/M/YYYY`)               	| `M`/`F`                 	| Number, or empty if Pending 	| `Confirmed`/`Asymptomatic`/`Pending` 	| Date (`D/M/YYYY`), or empty if pending or asymptomatic. 	| Text, or `Pending` if pending.                         	| Text (`Place/Place2`), or `None` if no recorded travel history. 	| `Local`/`Imported`                           	| `Y` if vaccinated with two doses, `N` if unvaccinated or vaccinated with a single dose, or `Pending` if pending. 	| `Y`/`N`, or `Pending` if pending.                         	|
+
+A few points to note:
+- Dates in the files are _not_ zero-padded (`7/2/2022`, not `07/02/2022`)
+- All data is subject to changes according to epidemiological investigations
+
+<br>
+
+## Timeframes
+
+### Last Report Date: 08/02/2022
+
+This is the date of the most recently reported cases for which information is available, which tends to be up to 21 days following the reporting date of the case. Case information for previous days is not typically updated.
+
+### Upcoming Data
+
+| Request Date 	| Expected Date 	| Case Dates                                                             	|
+|--------------	|---------------	|------------------------------------------------------------------------	|
+| 10/02/2022   	| 02/03/2022    	| 09/02/2022, 10/02/2022                                                 	|
+| 11/02/2022   	| 03/03/2022    	| 11/02/2022                                                             	|
+| 17/02/2022   	| 09/03/2022    	| 12/02/2022, 13/02/2022, 14/02/2022, 15/02/2022, 16/02/2022, 17/02/2022 	|
+| 18/02/2022   	| 10/03/2022    	| 18/02/2022                                                             	|
+| 19/02/2022   	|               	| 19/02/2022                                                             	|
+| 20/02/2022   	|               	| 20/02/2022                                                             	|
+| 22/02/2022   	|               	| 21/02/2022, 22/02/2022                                                 	|
+| 24/02/2022   	|               	| 23/02/2022, 24/02/2022                                                 	|
+| 25/02/2022   	|               	| 25/02/2022                                                             	|
+| 28/02/2022   	|               	| 26/02/2022, 27/02/2022, 28/02/2022                                     	|
+
+<br>
 
 ## Disclaimer
 
