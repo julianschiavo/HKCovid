@@ -1,6 +1,8 @@
 # Covid in HK
 Full case details for reported Covid-19 cases in Hong Kong, shared by the Communicable Diseases Branch of the Center for Health Protection (CHP) of the Department of Health (DH).
 
+## [Statistics](statistics.md)
+
 **[Data](#data)**
 
 **[Structure](#structure)**
