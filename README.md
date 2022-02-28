@@ -1,6 +1,9 @@
 # Covid in HK
 Full case details for reported Covid-19 cases in Hong Kong, shared by the Communicable Diseases Branch of the Center for Health Protection (CHP) of the Department of Health (DH).
 
+## Last Report Date: 08/02/2022
+This is the date of the most recently reported cases for which information is available, which tends to be up to 21 days following the reporting date of the case. Case information for previous days is not typically updated.
+
 ## Data
 
 - `daily/YYYY-MM-DD.csv`: Full Case Details for DD/MM/YYYY
