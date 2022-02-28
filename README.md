@@ -1,17 +1,11 @@
 # Covid in HK
 Full case details for reported Covid-19 cases in Hong Kong, shared by the Communicable Diseases Branch of the Center for Health Protection (CHP) of the Department of Health (DH).
 
-## Timeframes
+**[Data](#data)**
 
-### Last Report Date: 08/02/2022
+**[Structure](#structure)**
 
-This is the date of the most recently reported cases for which information is available, which tends to be up to 21 days following the reporting date of the case. Case information for previous days is not typically updated.
-
-### Upcoming Data
-
-**Expected On:** 02/03/2022
-
-**Includes:** 09/02/2022 and 10/02/2022
+**[Dates & Upcoming Data](#timeframes)**
 
 <br>
 
@@ -33,6 +27,29 @@ Each `csv` file contains the following information:
 A few points to note:
 - Dates in the files are _not_ zero-padded (`7/2/2022`, not `07/02/2022`)
 - All data is subject to changes according to epidemiological investigations
+
+<br>
+
+## Timeframes
+
+### Last Report Date: 08/02/2022
+
+This is the date of the most recently reported cases for which information is available, which tends to be up to 21 days following the reporting date of the case. Case information for previous days is not typically updated.
+
+### Upcoming Data
+
+| Request Date 	| Expected Date 	| Case Dates                                                             	|
+|--------------	|---------------	|------------------------------------------------------------------------	|
+| 10/02/2022   	| 02/03/2022    	| 09/02/2022, 10/02/2022                                                 	|
+| 11/02/2022   	| 03/03/2022    	| 11/02/2022                                                             	|
+| 17/02/2022   	| 09/03/2022    	| 12/02/2022, 13/02/2022, 14/02/2022, 15/02/2022, 16/02/2022, 17/02/2022 	|
+| 18/02/2022   	| 10/03/2022    	| 18/02/2022                                                             	|
+| 19/02/2022   	|               	| 19/02/2022                                                             	|
+| 20/02/2022   	|               	| 20/02/2022                                                             	|
+| 22/02/2022   	|               	| 21/02/2022, 22/02/2022                                                 	|
+| 24/02/2022   	|               	| 23/02/2022, 24/02/2022                                                 	|
+| 25/02/2022   	|               	| 25/02/2022                                                             	|
+| 28/02/2022   	|               	| 26/02/2022, 27/02/2022, 28/02/2022                                     	|
 
 <br>
 
