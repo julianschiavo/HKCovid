@@ -14,7 +14,7 @@ Full case details for reported Covid-19 cases in Hong Kong, shared by the Commun
 ## Data
 
 - `daily/YYYY-MM-DD.csv`: Full Case Details for DD/MM/YYYY
-- `all.csv`: All Full Case Details from 07/02/2022 to Last Report Date
+- `all.csv`: All Full Case Details from 01/01/2022 to Last Report Date
 
 <br>
 
